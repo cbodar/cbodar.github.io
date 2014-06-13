@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://cbodar.github.io/sitemap.xml 
+Sitemap: http://www.bodar.in/sitemap.xml 
